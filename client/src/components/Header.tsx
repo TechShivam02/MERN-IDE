@@ -14,7 +14,7 @@ export default function Header() {
         <ul className=" flex gap-2 select-none">
           <li>
             <Link to="/compiler">
-              <Button variant="outline"> Compiler </Button>
+              <Button variant="secondary"> Compiler </Button>
             </Link>
           </li>
         </ul>
